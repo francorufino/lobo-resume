@@ -104,7 +104,7 @@
   }
 
   .empresa-ano::before {
-    content: "Ano: ";
+    content: "Year: ";
   }
 }
 
